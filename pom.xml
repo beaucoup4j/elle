@@ -8,7 +8,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.beaucoup4j</groupId>
-    <artifactId>flux</artifactId>
+    <artifactId>elle</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Beaucoup4J :: Elle</name>
     <description>A JDK8 lambdas utility library.</description>
